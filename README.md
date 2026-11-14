@@ -81,7 +81,7 @@ Run the notebook to train the model — it saves `saved_model/hate_speech_rnn.ke
 streamlit run app.py
 ```
 
-## 👤 Author
+## 👤 Author :
 
 **Ammar Alsabateen** — AI & Machine Learning Engineer
 [GitHub](https://github.com/Ammarjm) · [Email](mailto:alsabateenammar@gmail.com)
